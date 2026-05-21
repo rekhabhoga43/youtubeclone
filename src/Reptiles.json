@@ -1,0 +1,53 @@
+[
+    {
+        "name":"Lizard",
+        "image":"https://static.vecteezy.com/system/resources/previews/023/155/069/original/cute-character-of-gecko-lizard-vector.jpg",
+        "para":"Lizard is the common name used for all squamate reptiles other than snakes (and to a lesser extent amphisbaenians or worm lizards), encompassing over 7,000 species,[1] ranging across all continents except Antarctica, as well as most oceanic island chains."
+    },
+    {
+        "name":"Snakes",
+        "image":"https://th.bing.com/th/id/OIP.lL3nDQJFMpk-wBcPdQPcBQHaHd?w=190&h=191&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "para":"https://th.bing.com/th/id/OIP.lL3nDQJFMpk-wBcPdQPcBQHaHd?w=190&h=191&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+    },
+    {
+        "name":"Crocodile",
+        "image":"https://th.bing.com/th/id/OIP.D9WuSNBs1mVw79gngQ-eKQHaHa?w=182&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "para":"A crocodile (family Crocodylidae) or true crocodile is a large, semiaquatic reptile that lives throughout the tropics in Africa, Asia, the Americas and Australia. "
+    },
+    {
+        "name":"Tutle",
+        "image":"https://th.bing.com/th/id/OIP.wvG3WmCK0gzVNzEHa79yAQHaHa?w=166&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "para":"Turtles (order Testudines) are reptiles characterized by a special shell developed mainly from their ribs. Modern turtles are divided into two major groups, the Pleurodira (side necked turtles) and Cryptodira (hidden necked turtles), which differ in the way the head retracts."
+    },
+    {
+        "name":"Chameleons",
+        "image":"https://th.bing.com/th/id/OIP.VKL5vXp2GfC8m4HHZoErhwHaHa?w=187&h=187&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "para":"Chameleons or chamaeleons (family Chamaeleonidae) are a distinctive and highly specialized clade of Old World lizards with 200 species described as of June 2015.[1] The members of this family are best known for their distinct range of colours, being capable of colour-shifting camouflage."
+    },
+    {
+        "name":"Basilisk",
+        "image":"https://th.bing.com/th/id/OIP.vwC4j9GYU7TM5JKuz-eojQHaHa?w=180&h=181&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "para":"In European bestiaries and legends, a basilisk (/ˈbæsɪlɪsk/ or /ˈbæzɪlɪsk/[1]) is a legendary reptile reputed to be a serpent king, who causes any being to die when glanced at. According to the Naturalis Historia of Pliny the Elder, the basilisk of Cyrene is a small snake, being not more than twelve inches in length,[2] that is so venomous, it leaves a wide trail of deadly venom in its path, its gaze likewise just as lethal."
+    },
+    {
+        "name":"Gecko",
+        "image":"https://th.bing.com/th/id/OIP.Z6apddXl-BI378f9zlfJawHaHa?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "para":"Geckos are small, mostly carnivorous lizards that have a wide distribution, found on every continent except Antarctica. Belonging to the suborder Gekkota, geckos are found in warm climates. They range from 1.6 to 67 centimetres (0.6 to 26.4 inches)."
+    },
+    {
+        "name":"Cobra",
+        "image":"https://th.bing.com/th/id/OIP.3sroWADRO9dCkswIyXeWAwHaHa?w=187&h=187&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "para":"Cobra is the common name of various venomous snakes, most of which belong to the genus Naja.[1]Many cobras are capable of rearing upwards and producing a hood when threatened."
+    },
+    {
+        "name":"Chinese water dragon",
+        "image":"https://th.bing.com/th/id/OIP.xyO9XQjCnX4i7TTk0kK3TwHaHa?w=179&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "para":"Chinese water dragons are large diurnal lizards adapted for dense subtropical forests replete with unpolluted streams. They are semi-arboreal, roosting at night on branches overlooking streams, which offer an escape route when the lizards are disturbed."
+    },
+    {
+        "name":"Tortoise",
+        "image":"https://th.bing.com/th/id/OIP.tLsUgYAIjcJ6hhAR-uJ3gAHaEJ?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "para":"Tortoises (/ˈtɔːrtəs.ɪz/ TOR-təs-iz) are reptiles of the family Testudinidae of the order Testudines (Latin for tortoise). Like other testudines, tortoises have a shell to protect from predation and other threats. The shell in tortoises is generally hard, and like other members of the suborder Cryptodira, they retract their necks and heads directly backward into the shell to protect them.[1]"
+    }
+
+]

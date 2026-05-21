@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "title":"pranama song",
+        "video":"https://www.youtube.com/embed/t8UkfCF5reU?si=3B7jixRlut61WnRH"
+    },
+    {
+        "id":2,
+        "title":"Neeve song",
+        "video":"https://www.youtube.com/embed/0Olv8zM_rps?si=fGvPDrxdnKLhjShX"
+    },
+    {
+        "id":3,
+        "title":"inka edho ",
+        "video":"https://www.youtube.com/embed/rC0YWZ0lly8?si=XAr_3r6mtOknsyTu"
+    },
+    {
+        "id":4,
+        "title":"bulle",
+        "video":"https://www.youtube.com/embed/TXeAjI0w1xo?si=KsfxPUaoBrWlUqdk"
+    },
+    {
+        "id":5,
+        "title":"hoosahore",
+        "video":"https://www.youtube.com/embed/TbrZ468U9Zc?si=_4na1s0tUcJV7SSe"
+    }
+
+]
