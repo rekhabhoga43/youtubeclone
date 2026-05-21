@@ -1,17 +1,23 @@
 import data from "./History.json";
+
 function History() {
-    return (
-        <div> 
-            {data.map((iteam) => (
-                <div key={iteam.id}>
-                    <h3>{iteam.title}</h3>
-                    <iframe src={iteam.video} width="550px" height="300px" ></iframe>
-                    <title> {iteam.title}</title>
-            
-                </div>
-            ))}
+  return (
+    <div>
+      {data.map((item) => (
+        <div key={item.id}>
+          <h3>{item.title}</h3>
+
+          <iframe
+            src={item.video}
+            title={item.title}
+            width="550px"
+            height="300px"
+          ></iframe>
+
         </div>
-);
-  
+      ))}
+    </div>
+  );
 }
-export default History ;
+
+export default History;
